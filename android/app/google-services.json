@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059415121522",
+    "firebase_url": "https://cognitive-crowdie.firebaseio.com",
+    "project_id": "cognitive-crowdie",
+    "storage_bucket": "cognitive-crowdie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059415121522:android:4acb2dfb6e5da839642ceb",
+        "android_client_info": {
+          "package_name": "com.example.crowdie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059415121522-15n50t0jng29o84okr5r0u4cer5bt616.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUfBMCMmRbqwJBl8x-CQ51Y4dUSK9M2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059415121522-15n50t0jng29o84okr5r0u4cer5bt616.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
